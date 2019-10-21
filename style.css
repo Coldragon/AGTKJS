@@ -1,0 +1,17 @@
+body {
+	background: black;
+	color: white;
+}
+
+#frontbuffer
+{
+	padding: 0;
+	margin: auto;
+	font-family: 'Courier New', 'Courier', monospace;
+	font-size: 0.8;
+	line-height: 0.615;
+	letter-spacing: -1.5px;
+	/*text-align: center;*/
+	white-space: pre;
+	display: inline-block;
+}
